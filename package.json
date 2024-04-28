@@ -1,0 +1,26 @@
+{
+  "name": "number-to-readable-format",
+  "version": "1.0.0",
+  "description": "Converts a number to a human readable format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elyas-Demeke/npm-format-number-to-readable.git"
+  },
+  "keywords": [
+    "format",
+    "number"
+  ],
+  "author": "Elyas Demeke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elyas-Demeke/npm-format-number-to-readable/issues"
+  },
+  "homepage": "https://github.com/Elyas-Demeke/npm-format-number-to-readable#readme",
+  "dependencies": {
+    "jsdoc": "^4.0.2"
+  }
+}
